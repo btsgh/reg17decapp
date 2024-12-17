@@ -1,0 +1,3 @@
+UPDATE PUBLIC.DISTRICT SET
+		DISTRICT = '{{update_form.fieldState.DISTRICT.isVisible ? update_form.formData.DISTRICT : update_form.sourceData.DISTRICT}}'
+WHERE COVIDCASES = {{data_table.selectedRow.COVIDCASES}};

@@ -1,0 +1,6 @@
+INSERT INTO PUBLIC.DISTRICT (
+	COVIDCASES,
+	DISTRICT)
+VALUES (
+	'{{insert_form.formData.COVIDCASES}}',
+	'{{insert_form.formData.DISTRICT}}');
