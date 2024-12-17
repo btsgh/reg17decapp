@@ -18,8 +18,12 @@
   "icon": "location",
   "pages": [
     {
-      "id": "Page1",
+      "id": "APIs",
       "isDefault": true
+    },
+    {
+      "id": "20MB",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {

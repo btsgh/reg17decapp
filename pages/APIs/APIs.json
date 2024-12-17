@@ -1,11 +1,12 @@
 {
   "gitSyncId": "67603867536a20188545c9c7_21ca5a3a-e0ad-42ba-af34-4518e3ef59bf",
   "unpublishedPage": {
+    "isHidden": false,
     "layouts": [
       {
         "dsl": {
           "backgroundColor": "none",
-          "bottomRow": 5000,
+          "bottomRow": 56760,
           "canExtend": true,
           "containerStyle": "none",
           "detachFromLayout": true,
@@ -26,7 +27,7 @@
         }
       }
     ],
-    "name": "Page1",
-    "slug": "page1"
+    "name": "APIs",
+    "slug": "apis"
   }
 }
