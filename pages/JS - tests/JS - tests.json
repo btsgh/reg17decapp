@@ -1,13 +1,12 @@
 {
-  "gitSyncId": "6760f9245ee0b67c5116e320_46a02bb6-fad3-489a-a80b-5baa2f847449",
+  "gitSyncId": "6760f9245ee0b67c5116e320_69f4d9e3-fe9b-47a5-8a56-5d07285447e7",
   "unpublishedPage": {
-    "customSlug": "from-ny-branch-",
     "isHidden": false,
     "layouts": [
       {
         "dsl": {
           "backgroundColor": "none",
-          "bottomRow": 380,
+          "bottomRow": 650,
           "canExtend": true,
           "containerStyle": "none",
           "detachFromLayout": true,
@@ -27,7 +26,7 @@
         }
       }
     ],
-    "name": "20MB",
-    "slug": "20mb"
+    "name": "JS - tests",
+    "slug": "js-tests"
   }
 }

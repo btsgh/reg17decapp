@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "6760f9245ee0b67c5116e320_433ef6a3-771f-48c0-a2c1-b5a1f193be19",
+  "id": "JS - tests_Prom",
+  "unpublishedCollection": {
+    "name": "Prom",
+    "pageId": "JS - tests",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}

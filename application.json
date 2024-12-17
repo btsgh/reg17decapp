@@ -18,15 +18,15 @@
   "icon": "location",
   "pages": [
     {
-      "id": "APIs",
+      "id": "20MB",
       "isDefault": true
     },
     {
-      "id": "20MB",
+      "id": "APIs",
       "isDefault": false
     },
     {
-      "id": "JS",
+      "id": "JS - tests",
       "isDefault": false
     }
   ],
