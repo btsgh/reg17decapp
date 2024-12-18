@@ -12,6 +12,9 @@ export default {
 		// Utility Functions
 		const isValidEmail = (email) => /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
 		const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+		
+		const isValidEmail = (email) => /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
+		const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
 		// User Class
 		class User {

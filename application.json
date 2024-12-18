@@ -28,6 +28,10 @@
     {
       "id": "JS - tests",
       "isDefault": false
+    },
+    {
+      "id": "20MB Successful",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
