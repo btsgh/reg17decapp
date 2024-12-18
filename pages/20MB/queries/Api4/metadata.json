@@ -11,7 +11,7 @@
           "value": "multipart/form-data"
         }
       ],
-      "body": "",
+      "body": "{{FilePicker1.files}}",
       "bodyFormData": [
         {
           "key": "uploadedFile",

@@ -11,7 +11,7 @@
           "value": "application/octet-stream"
         }
       ],
-      "body": "{{FilePicker1.files[0]}}",
+      "body": "{{FilePicker1.files[0].data}}",
       "bodyFormData": [],
       "encodeParamsToggle": true,
       "formData": {
@@ -20,7 +20,7 @@
       "headers": [
         {
           "key": "Dropbox-API-Arg",
-          "value": "{\"path\": \"/tc355upload/uploadedFile.mov\", \"mode\": \"add\", \"autorename\": true, \"mute\": false}"
+          "value": "{\"path\": \"/tc355upload/30MB.pdf\", \"mode\": \"add\", \"autorename\": true, \"mute\": false}"
         },
         {
           "key": "Content-Type",
